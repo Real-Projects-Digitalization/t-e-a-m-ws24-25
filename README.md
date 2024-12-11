@@ -1,4 +1,5 @@
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/fe55da68-cdac-49d3-8df0-0f906ec826d7" />
+
 SafeCircle: Your Child’s Safety, Reimagined
 Welcome to the SafeCircle repository! Our mission is to empower parents with the tools to ensure their children’s safety, no matter where they are. This app is designed to give peace of mind to families, offering real-time location updates, secure communication, and innovative features tailored for modern parenting.
 
