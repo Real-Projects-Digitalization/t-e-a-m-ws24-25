@@ -19,3 +19,15 @@ Why SafeCircle?
 - Empowering Families: A simple, intuitive tool that makes parenting in the digital age easier.
 - Tailored for Modern Lives: Built by a team passionate about safety and innovation.
 
+👥 Team
+- Matthias: Technology Lead
+- Ela & Angela: Design and Marketing
+- Anastasia: Management and App Development
+- Thibaud: Communication and Network Expansion
+
+📩 Contact
+
+Have questions or feedback? Feel free to reach out:
+- Email: team@safecircle.app
+- Website: safecircle.app
+
