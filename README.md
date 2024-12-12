@@ -5,6 +5,7 @@ SafeCircle: Peace of Mind, Wherever They Go
 Welcome to the SafeCircle repository! Our mission is to empower parents with the tools to ensure their children’s safety, no matter where they are. This app is designed to give peace of mind to families, offering real-time location updates, secure communication, and innovative features tailored for modern parenting.
 
 🚀 Features
+- Different interfaces: for parents and for teachers/coaches
 - Real-Time Location Tracking: Stay updated on your child’s location with GPS precision.
 - Secure Communication: End-to-end encrypted messaging for parents and children.
 - Geofencing Alerts: Receive notifications when your child enters or leaves predefined areas.
