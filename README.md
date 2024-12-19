@@ -22,7 +22,7 @@ Why SafeCircle?
 
 👥 Team
 - Matthias: Technology Lead
-- Ela & Angela: Design and Marketing
+- Elanur & Angela: Design and Marketing
 - Anastasia: Management and App Development
 - Thibaud: Communication and Network Expansion
 
